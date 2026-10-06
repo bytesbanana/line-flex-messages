@@ -1,5 +1,5 @@
 ---
-name: line-flex-messages
+name: line-flex-messages-skill
 description: Agent guidance for authoring and sending LINE Flex Messages via the Messaging API. Activate when building Flex Message layouts, deciding between Bubble/Carousel, debugging rendering, or integrating push/reply/multicast endpoints.
 ---
 
