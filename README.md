@@ -4,16 +4,18 @@ Agent guidance for authoring and sending LINE Flex Messages via the Messaging AP
 
 ## What's here
 
-```text
+```
 line-flex-messages/
-├── SKILL.md            # Agent entry point
-├── LICENSE             # MIT
-├── README.md           # This file
+├── SKILL.md              # Agent entry point
+├── LICENSE               # MIT
+├── README.md             # This file
 ├── references/
-│   ├── elements.md     # Container / Block / Component taxonomy
-│   ├── layout.md       # Box orientation, sizing, positioning
-│   └── video.md        # Video component requirements and fallback
-└── assets/            # Templates (empty — add as needed)
+│   ├── send.md           # Sending via Messaging API, bubble sizes, LTR/RTL, limitations
+│   ├── elements.md       # Container/Block/Component taxonomy with full JSON examples
+│   ├── layout.md         # Box orientation, sizing, positioning, linear gradient
+│   ├── video.md         # Video requirements, aspect ratio, altContent, playback
+│   └── simulator.md      # Flex Message Simulator no-code composition workflow
+└── assets/               # Templates (empty — add as needed)
 ```
 
 ## Activation
@@ -28,8 +30,8 @@ LINE is a trademark of LY Corporation. This project is not affiliated with, endo
 
 LINE Developers Documentation — Messaging API — Flex Messages:
 
-- Send Flex Messages
-- Flex Message elements
-- Flex Message layout
-- Create a Flex Message including a video
-- Flex Message Simulator
+- [Send Flex Messages](https://developers.line.biz/en/docs/messaging-api/using-flex-messages/)
+- [Flex Message elements](https://developers.line.biz/en/docs/messaging-api/flex-message-elements/)
+- [Flex Message layout](https://developers.line.biz/en/docs/messaging-api/flex-message-layout/)
+- [Create a Flex Message including a video](https://developers.line.biz/en/docs/messaging-api/create-flex-message-including-video/)
+- [Flex Message Simulator](https://developers.line.biz/en/docs/messaging-api/using-flex-message-simulator/)
