@@ -20,6 +20,10 @@ line-flex-messages/
 
 Activate when working with LINE Flex Messages — building layouts, sending via Messaging API, debugging rendering, or deciding between Bubble/Carousel.
 
+## Trademarks
+
+LINE is a trademark of LY Corporation. This project is not affiliated with, endorsed by, or sponsored by LINE Corporation or LY Corporation. References to LINE, the Messaging API, and Flex Message Simulator are for descriptive purposes only.
+
 ## Sources
 
 LINE Developers Documentation — Messaging API — Flex Messages:
