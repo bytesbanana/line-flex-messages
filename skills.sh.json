@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "LINE",
+      "description": "Skills for LINE Messaging API and Flex Message layouts.",
+      "skills": ["line-flex-messages"]
+    }
+  ]
+}
